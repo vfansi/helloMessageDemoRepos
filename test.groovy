@@ -1,4 +1,6 @@
-def name = "Valtere"
+def firstname = "Valtere"
+def lastname = "Fansi Mogoue"
 def alter = 21
 
-println "Hello $name, you will have $alter"
+println "Hello Mrs. $firstname $lastname, is  $alter"
+
