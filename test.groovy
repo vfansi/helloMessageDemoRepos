@@ -1,1 +1,3 @@
-println "Hello Words......"
+def name = "Valtere"
+
+println "Hello $name"
