@@ -1,3 +1,4 @@
-def name = "Valtere"
+def firstname = "Valtere"
+def lastname = "Fansi Mogoue"
 
-println "Hello $name"
+println "Hello Mrs. $firstname $lastname"
